@@ -44,15 +44,13 @@ Setup Environment:
 Run the provided setup script or create a venv:
 
 Bash
+
     python -m venv venv
     source venv/bin/activate  # Or venv\Scripts\activate on Windows
     pip install -r requirements.txt
    
-3.  **Launch:**
-4.  
-    Use the included `.bat` file for one-click startup or run:
-    
-    bash
+
+**Launch:**
     
     python main_gui.py
    
