@@ -38,7 +38,9 @@ Clone the Repo:
 
 Bash
 git clone https://github.com/angulardevelopment-coursera/RawEPLforLabelPrinterFromCNC.git
+
 Setup Environment:
+
 Run the provided setup script or create a venv:
 
 Bash
