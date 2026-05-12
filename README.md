@@ -47,12 +47,15 @@ Bash
     python -m venv venv
     source venv/bin/activate  # Or venv\Scripts\activate on Windows
     pip install -r requirements.txt
-    ```
+   
 3.  **Launch:**
+4.  
     Use the included `.bat` file for one-click startup or run:
-    ```bash
+    
+    bash
+    
     python main_gui.py
-    ```
+   
 
 ## 🏗 Industrial Impact
 This project was born out of a decade of IoT hobbyist work and a lifelong career in the trade. It demonstrates how modern software practices (automation, modular design, and GUI development) can solve legacy hardware communication issues in a high-pressure manufacturing environment.
